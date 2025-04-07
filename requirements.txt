@@ -1,3 +1,4 @@
 python-telegram-bot==20.0
 tensorflow==2.12
 scikit-learn==1.0.1
+python==3.8
